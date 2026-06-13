@@ -36,6 +36,12 @@ A high-fidelity, interactive, and premium clone of the popular Indian quick-comm
 
 ---
 
+## SCREENSHOTS
+<img width="1883" height="902" alt="Screenshot 2026-06-13 094841" src="https://github.com/user-attachments/assets/607ecb2c-7263-43b6-9be5-084667115b0f" />
+
+<img width="1887" height="911" alt="Screenshot 2026-06-13 095000" src="https://github.com/user-attachments/assets/b201f97b-dc06-4efe-b771-76bf1a3c18e9" />
+
+
 ## 🛠️ Technology Stack
 
 - **Framework**: [React 18](https://react.dev/)
